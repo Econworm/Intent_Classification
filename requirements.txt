@@ -1,0 +1,8 @@
+numpy 
+pandas 
+nltk
+sklearn
+matplotlib
+keras
+Scikit-learn
+Tensorflow-macos
